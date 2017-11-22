@@ -43,5 +43,5 @@ else
 end
 
 puts "---"
-puts 'Current Price is ￥' + current_price
-puts 'Last Trade Price is ￥' + last_trade_price
+puts 'Current Price ￥' + current_price
+puts 'Last Trade Price ￥' + last_trade_price
